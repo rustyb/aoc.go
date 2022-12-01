@@ -1,3 +1,3 @@
-# Advent of go 2021
+## AOC Go
 
-My poor attempt at advent of code 2021
+My attempt at Advent of Code in Go.
