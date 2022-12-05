@@ -47,3 +47,12 @@ func SumValues(values []int) int {
 	}
 	return sum
 }
+
+func ConvertStringToInt(input string) int {
+	convertedString, err := strconv.Atoi(input)
+
+	if err != nil {
+		panic(err)
+	}
+	return convertedString
+}
